@@ -2,7 +2,7 @@
 
 library(tidyverse)
 
-source("simulation functions.R", echo = FALSE)
+source("simulation_functions.R", echo = FALSE)
 
 set.seed(9)
 
